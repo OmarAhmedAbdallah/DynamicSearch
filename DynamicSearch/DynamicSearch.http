@@ -1,0 +1,6 @@
+@DynamicSearch_HostAddress = http://localhost:5193
+
+GET {{DynamicSearch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
